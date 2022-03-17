@@ -5,7 +5,7 @@ This is a simple jquery webpage which lets you see and click-to-type runic chara
 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/PHAH0qLIqpY  )
 
 # Development Environment
 
